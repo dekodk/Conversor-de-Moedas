@@ -17,3 +17,4 @@ Sistema simples em Java para conversão de moedas em tempo real, utilizando a AP
 - Java 17+
 - Gson (para leitura do JSON)
 - API pública ExchangeRate
+- IntelliJ IDEA Community
